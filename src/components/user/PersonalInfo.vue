@@ -22,7 +22,7 @@ const userData = computed(() => {
       <p class="my-0 fs-5 fw-semibold">My Basic Info</p>
       <div class="d-flex mt-4">
         <div class="pe-4 me-4">
-          <p>Firstname</p>
+          <p>First Name</p>
           <p>Last Name</p>
           <p>Username</p>
           <p>Email</p>
